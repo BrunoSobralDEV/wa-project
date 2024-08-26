@@ -22,8 +22,8 @@ Esta ferramenta CLI permite que você analise uma frase fornecida em relação a
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/brunosobraldev/wacli.git
-cd wacli
+git clone https://github.com/BrunoSobralDEV/wa-project.git
+cd wa-project/wacli
 npm install
 ```
 # Uso
