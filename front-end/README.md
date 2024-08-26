@@ -27,7 +27,7 @@ Uma aplicação webdesenvolvida com React e TypeScript que permite aos usuários
 1. Clone o repositório e navegue até o diretório do projeto:
 
 ```bash
-git clone https://github.com/BrunoSobralDEV/wa-project
+git clone https://github.com/BrunoSobralDEV/wa-project.git
 cd wa-project/front-end
 npm install
 npm run dev
